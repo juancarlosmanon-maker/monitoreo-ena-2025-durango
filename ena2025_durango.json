@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-08T10:00:00-06:00",
+  "cut_label": "8 de octubre de 2026, 10:00 h",
+  "records": [
+    {
+      "date": "2026-10-07",
+      "cut": "07 oct · 16:00",
+      "medium": "La Crónica de Hoy",
+      "platform": "Web",
+      "title": "México registra más de 24 millones de bovinos y 611 millones de aves en 2025: Inegi",
+      "theme": "Ganadería",
+      "region": "Nacional con referencia sustantiva a Durango",
+      "extract": "La ENA 2025 registra 24,027,332 bovinos; Durango figura entre ocho entidades que concentran conjuntamente 55.6 % del inventario nacional.",
+      "url": "https://www.cronica.com.mx/nacional/2026/10/07/mexico-registra-mas-de-24-millones-de-bovinos-y-611-millones-de-aves-en-2025-inegi/"
+    },
+    {
+      "date": "2026-10-07",
+      "cut": "07 oct · 16:00",
+      "medium": "Líder Empresarial",
+      "platform": "Web",
+      "title": "Jalisco concentra peso estratégico en el campo mexicano",
+      "theme": "Ganadería",
+      "region": "Nacional con referencia sustantiva a Durango",
+      "extract": "Durango aparece entre las ocho entidades que reúnen 55.6 % del inventario nacional de bovinos.",
+      "url": "https://www.liderempresarial.com/jalisco-concentra-peso-estrategico-en-el-campo-mexicano/"
+    },
+    {
+      "date": "2026-10-07",
+      "cut": "08 oct · 10:00 (retrospectivo)",
+      "medium": "Metapolítica",
+      "platform": "Web",
+      "title": "Destaca Michoacán entre los principales productores nacionales de granos y frutos, revela Encuesta Nacional Agropecuaria 2025",
+      "theme": "Ganadería",
+      "region": "Nacional con referencia sustantiva a Durango",
+      "extract": "Incluye a Durango entre ocho entidades que concentran 55.6 % de las existencias nacionales de bovinos.",
+      "url": "https://metapolitica.news/2026/10/07/destaca-michoacan-entre-los-principales-productores-nacionales-de-granos-y-frutos-revela-encuesta-nacional-agropecuaria-2025/"
+    },
+    {
+      "date": "2026-10-07",
+      "cut": "08 oct · 10:00 (retrospectivo)",
+      "medium": "Alerta Chiapas",
+      "platform": "Web",
+      "title": "Chiapas, segundo estado con más tierra de cultivo: 1.6 millones de ha",
+      "theme": "Ganadería",
+      "region": "Nacional con referencia sustantiva a Durango",
+      "extract": "Menciona a Durango entre ocho entidades que concentran 55.6 % del ganado bovino nacional.",
+      "url": "https://alertachiapas.com/2026/10/07/chiapas-segundo-lugar-superficie-agricola-ena-2025/"
+    },
+    {
+      "date": "2026-10-07",
+      "cut": "08 oct · 10:00 (retrospectivo)",
+      "medium": "El Sol de Chiapas",
+      "platform": "Web",
+      "title": "CHIAPAS concentra 6.6% de la superficie agrícola nacional: INEGI",
+      "theme": "Ganadería",
+      "region": "Nacional con referencia sustantiva a Durango",
+      "extract": "Incluye a Durango entre las ocho entidades que concentran conjuntamente 55.6 % de las existencias de ganado bovino.",
+      "url": "https://elsoldechiapas.com/chiapas-concentra-6-6-de-la-superficie-agricola-nacional-inegi/"
+    },
+    {
+      "date": "2026-10-08",
+      "cut": "08 oct · 10:00",
+      "medium": "El Economista",
+      "platform": "Web",
+      "title": "También se contrae la actividad pecuaria",
+      "theme": "Ganadería",
+      "region": "Nacional con referencia sustantiva a Durango",
+      "extract": "Reporta una disminución de 2.14 % en bovinos entre 2022 y 2025; incluye a Durango entre ocho entidades que concentran 55.6 % del inventario.",
+      "url": "https://www.eleconomista.com.mx/empresas/contrae-actividad-pecuaria-20261008-837532.html"
+    },
+    {
+      "date": "2026-10-08",
+      "cut": "08 oct · 10:00",
+      "medium": "Cuarto Poder",
+      "platform": "Web",
+      "title": "Entidad, entre los gigantes agrícolas y pecuarios",
+      "theme": "Ganadería",
+      "region": "Nacional con referencia sustantiva a Durango",
+      "extract": "Menciona a Durango entre ocho entidades que concentran 55.6 % del ganado bovino nacional.",
+      "url": "https://www.cuartopoder.mx/chiapas/entidad-entre-los-gigantes-agricolas-y-pecuarios/593764"
+    }
+  ]
+}
