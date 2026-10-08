@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-08T10:00:00-06:00",
-  "cut_label": "8 de octubre de 2026, 10:00 h",
+  "updated_at": "2026-10-08T16:12:00-06:00",
+  "cut_label": "8 de octubre de 2026, 16:00 h",
   "records": [
     {
       "date": "2026-10-07",
@@ -79,6 +79,30 @@
       "region": "Nacional con referencia sustantiva a Durango",
       "extract": "Menciona a Durango entre ocho entidades que concentran 55.6 % del ganado bovino nacional.",
       "url": "https://www.cuartopoder.mx/chiapas/entidad-entre-los-gigantes-agricolas-y-pecuarios/593764"
+    },
+    {
+      "date": "2026-10-08",
+      "cut": "08 oct · 16:00",
+      "medium": "MiMorelia",
+      "platform": "Web",
+      "title": "Michoacán, sexto estado con más ganado bovino; supera 1.2 millones de cabezas",
+      "theme": "Ganadería",
+      "region": "Nacional con referencia sustantiva a Durango",
+      "scope": "Nacional",
+      "extract": "La publicación identifica a Durango como tercera entidad con mayor inventario bovino, con 1 millón 804 mil 876 cabezas, después de Veracruz y Jalisco.",
+      "url": "https://mimorelia.com/michoacan/michoacan-sexto-estado-mas-ganado-bovino-supera-12-millones-cabezas-n5594141"
+    },
+    {
+      "date": "2026-10-08",
+      "cut": "08 oct · 16:00",
+      "medium": "Quadratín Chiapas",
+      "platform": "Web",
+      "title": "Chiapas, sexto productor frutícola y clave en ganado bovino: INEGI",
+      "theme": "Ganadería",
+      "region": "Nacional con referencia sustantiva a Durango",
+      "scope": "Nacional",
+      "extract": "La publicación menciona a Durango entre las ocho entidades que concentran conjuntamente 55.6 % del inventario bovino nacional, estimado en 24 millones 27 mil 332 animales.",
+      "url": ""
     }
   ]
 }
