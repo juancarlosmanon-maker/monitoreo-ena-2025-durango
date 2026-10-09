@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-09T10:11:00-06:00",
-  "cut_label": "9 de octubre de 2026, 10:00 h · sin nuevos hallazgos confirmados",
+  "updated_at": "2026-10-09T16:06:00-06:00",
+  "cut_label": "9 de octubre de 2026, 16:00 h",
   "records": [
     {
       "date": "2026-10-07",
@@ -119,6 +119,45 @@
       "extract": "",
       "url": "https://chiapas.quadratin.com.mx/economia/chiapas-sexto-productor-fruticola-y-clave-en-ganado-bovino-inegi/",
       "extract_status": "Pendiente de cotejo: no se pudo verificar literalmente el texto de la fuente"
+    },
+    {
+      "date": "2026-10-09",
+      "cut": "09 oct · 16:00",
+      "medium": "Líder Empresarial",
+      "platform": "Web",
+      "title": "Aguascalientes, entre los siete estados con mayor proporción de cultivos anuales: INEGI",
+      "theme": "Agricultura",
+      "region": "Nacional con referencia sustantiva a Durango",
+      "scope": "Nacional",
+      "extract": "4 | Durango | 85.4%",
+      "extract_status": "Transcripción literal de la fila de tabla publicada",
+      "url": "https://www.liderempresarial.com/aguascalientes-entre-los-siete-estados-con-mayor-proporcion-de-cultivos-anuales-inegi/"
+    },
+    {
+      "date": "2026-10-09",
+      "cut": "09 oct · 16:00",
+      "medium": "MiMorelia",
+      "platform": "Web",
+      "title": "El campo de Michoacán se sostiene con trabajo sin remuneración: 78.2% no recibe pago",
+      "theme": "Mano de obra agropecuaria",
+      "region": "Nacional con referencia sustantiva a Durango",
+      "scope": "Nacional",
+      "extract": "Más cercanos a Michoacán estuvieron Durango, con 79.6%; Sinaloa, con 79.2%, y Nuevo León, con 79.1%.",
+      "extract_status": "Cita textual cotejada",
+      "url": "https://mimorelia.com/michoacan/el-campo-michoacan-se-sostiene-trabajo-remuneracion-782-no-recibe-pago-n5594105"
+    },
+    {
+      "date": "2026-10-08",
+      "cut": "09 oct · 16:00 (retrospectivo)",
+      "medium": "El Economista",
+      "platform": "Web",
+      "title": "Sonora, Jalisco y BCS lideran en mano de obra remunerada del campo",
+      "theme": "Mano de obra agropecuaria",
+      "region": "Nacional con referencia sustantiva a Durango",
+      "scope": "Nacional",
+      "extract": "En el grupo de 20 a 35% estuvieron Aguascalientes, Morelos, Chihuahua, Michoacán, Nuevo León, Sinaloa y Durango.",
+      "extract_status": "Cita textual cotejada; publicado 8 oct 22:32",
+      "url": "https://www.eleconomista.com.mx/estados/sonora-jalisco-bcs-lideran-mano-obra-remunerada-campo-20261008-837729.html"
     }
   ],
   "editorial_policy": "Extractos textuales breves, sin paráfrasis; solo Durango resaltado visualmente en HTML y Word."
