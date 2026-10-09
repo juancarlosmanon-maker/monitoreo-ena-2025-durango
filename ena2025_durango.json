@@ -121,7 +121,7 @@
       "extract_status": "Pendiente de cotejo: no se pudo verificar literalmente el texto de la fuente"
     },
     {
-      "date": "2026-10-09",
+      "date": "2026-10-08",
       "cut": "09 oct · 16:00",
       "medium": "Líder Empresarial",
       "platform": "Web",
@@ -129,8 +129,8 @@
       "theme": "Agricultura",
       "region": "Nacional con referencia sustantiva a Durango",
       "scope": "Nacional",
-      "extract": "4 | Durango | 85.4%",
-      "extract_status": "Transcripción literal de la fila de tabla publicada",
+      "extract": "Posición | Estado | Proporción\n3 | Zacatecas | 85.9%\n4 | Durango | 85.4%\n5 | Guanajuato | 84.9%",
+      "extract_status": "Transcripción literal de encabezado y filas contiguas de la tabla publicada; no existe párrafo narrativo sobre Durango",
       "url": "https://www.liderempresarial.com/aguascalientes-entre-los-siete-estados-con-mayor-proporcion-de-cultivos-anuales-inegi/"
     },
     {
