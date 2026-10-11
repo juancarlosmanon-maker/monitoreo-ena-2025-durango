@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-09T16:06:00-06:00",
-  "cut_label": "9 de octubre de 2026, 16:00 h",
+  "updated_at": "2026-10-11T09:11:00-06:00",
+  "cut_label": "10 de octubre de 2026, 10:00 h (integración de pendientes; actualización 11 oct)",
   "records": [
     {
       "date": "2026-10-07",
@@ -158,6 +158,32 @@
       "extract": "En el grupo de 20 a 35% estuvieron Aguascalientes, Morelos, Chihuahua, Michoacán, Nuevo León, Sinaloa y Durango.",
       "extract_status": "Cita textual cotejada; publicado 8 oct 22:32",
       "url": "https://www.eleconomista.com.mx/estados/sonora-jalisco-bcs-lideran-mano-obra-remunerada-campo-20261008-837729.html"
+    },
+    {
+      "date": "2026-10-08",
+      "cut": "10 oct · 10:00 (integración retrospectiva)",
+      "medium": "AVC Noticias",
+      "platform": "Web",
+      "title": "Familias del campo en México recortan gastos ante dificultades",
+      "theme": "Ganadería",
+      "region": "Nacional con referencia sustantiva a Durango",
+      "scope": "Nacional",
+      "channel": "Tradicional",
+      "extract": "El estado también formó parte de las ocho entidades que concentraron 55.6% del ganado bovino del país, junto con Jalisco, Durango, Chiapas, Chihuahua, Michoacán, Oaxaca y Tabasco.",
+      "url": "https://www.avcnoticias.com.mx/noticias-veracruz/general/383970/familias-del-campo-en-m-xico-recortan-gastos-ante-dificultades.html"
+    },
+    {
+      "date": "2026-10-08",
+      "cut": "10 oct · 10:00 (integración retrospectiva)",
+      "medium": "NVI Noticias",
+      "platform": "Web",
+      "title": "Agave, café y ganado: Oaxaca destaca entre los grandes productores de México",
+      "theme": "Ganadería",
+      "region": "Nacional con referencia sustantiva a Durango",
+      "scope": "Nacional",
+      "channel": "Tradicional",
+      "extract": "Forma parte del grupo de ocho entidades que, en conjunto, reúnen 55.6 por ciento del hato bovino nacional, junto con Veracruz, Jalisco, Durango, Chiapas, Chihuahua, Michoacán y Tabasco.",
+      "url": "https://www.nvinoticias.com/oaxaca/general/agave-cafe-y-ganado-oaxaca-destaca-entre-los-grandes-productores-de-mexico/194392"
     }
   ],
   "editorial_policy": "Extractos textuales breves, sin paráfrasis; solo Durango resaltado visualmente en HTML y Word."
