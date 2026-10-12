@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-12T10:00:00-06:00",
-  "cut_label": "12 de octubre de 2026, 10:00 h",
+  "updated_at": "2026-10-12T16:00:00-06:00",
+  "cut_label": "12 de octubre de 2026, 16:00 h — cierre",
   "records": [
     {
       "date": "2026-10-07",
@@ -214,6 +214,47 @@
       "scope": "Nacional",
       "extract": "el 55.6 por ciento del ganado bovino del país, al lado de Veracruz, Jalisco, Durango, Chihuahua, Michoacán, Oaxaca y Tabasco.",
       "url": "https://elmomentochiapas.mx/estados/chiapas/2026/10/11/chiapas-entre-las-potencias-agropecuarias-de-mexico/"
+    },
+    {
+      "date": "2026-10-12",
+      "cut": "12 oct · 16:00",
+      "medium": "El Siglo de Torreón",
+      "platform": "Web",
+      "title": "Liderazgo lácteo y tecnología, las fortalezas de Coahuila y Durango en la Encuesta Nacional Agropecuaria",
+      "theme": "Agricultura, ganadería y tecnificación",
+      "region": "Cobertura regional con referencia directa a Durango",
+      "scope": "Durango",
+      "channel": "Tradicional",
+      "extract": "La ENA 2025 señala para Durango 778,530 hectáreas de superficie agrícola, de las cuales 664,853 corresponden a cultivos anuales. Publicación de Fabiola P. Canedo, 12 de octubre, 11:40 h.",
+      "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/liderazgo-lacteo-y-tecnologia-las-fortalezas-de-coahuila-y-durango-en-la-encuesta-nacional-agropecuaria.html"
+    },
+    {
+      "date": "2026-10-07",
+      "cut": "08 oct · 10:00",
+      "medium": "Notigram",
+      "platform": "Web",
+      "title": "Producción de maíz blanco en México cae a su nivel más bajo desde 2007",
+      "theme": "Producción de maíz blanco",
+      "region": "Medio con presencia en Durango; información nacional sin referencia estatal específica",
+      "scope": "Nacional",
+      "channel": "Tradicional",
+      "extract": "La producción de maíz blanco cayó a 20 millones 446 mil 410 toneladas en 2025, 6.7% por debajo de 2022, según la ENA 2025.",
+      "url": "https://notigram.com/mexico/nacional/produccion-de-maiz-blanco-en-mexico-cae-a-su-nivel-mas-bajo-desde-2007-20261007-1804244",
+      "integration_note": "Hallazgo del 7 de octubre integrado en el cierre del 12 de octubre."
+    },
+    {
+      "date": "2026-10-07",
+      "cut": "08 oct · 10:00",
+      "medium": "Notigram",
+      "platform": "Web",
+      "title": "Sequías y otros fenómenos climáticos provocaron pérdidas al 58% del campo mexicano",
+      "theme": "Factores climáticos, sequía y costos",
+      "region": "Medio con presencia en Durango; información nacional sin referencia estatal específica",
+      "scope": "Nacional",
+      "channel": "Tradicional",
+      "extract": "El 58.2% de las unidades de producción reportó pérdidas por factores climáticos en 2025, de acuerdo con la ENA; la sequía afectó a 36.8%.",
+      "url": "https://notigram.com/mexico/nacional/sequias-y-otros-fenomenos-climaticos-provocaron-perdidas-al-58-del-campo-mexicano-20261007-1804223",
+      "integration_note": "Hallazgo del 7 de octubre integrado en el cierre del 12 de octubre."
     }
   ],
   "editorial_policy": "Extractos textuales breves, sin paráfrasis; solo Durango resaltado visualmente en HTML y Word.\nLas notas integradas retrospectivamente conservan fecha de publicación, corte normalizado y referencia histórica en integration_note; no se duplican cortes por calificativos.",
@@ -265,6 +306,14 @@
       "new_records": 2,
       "notes": "Dos publicaciones nacionales/regionales con referencia sustantiva a Durango. Acumulado: 16.",
       "status": "realizado"
+    },
+    {
+      "date": "2026-10-12",
+      "time": "16:00",
+      "label": "12 oct · 16:00",
+      "new_records": 1,
+      "notes": "Cierre: una publicación del día y dos hallazgos anteriores incorporados; acumulado 19.",
+      "status": "cierre_documentado"
     }
   ]
 }
