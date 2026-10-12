@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-11T09:11:00-06:00",
-  "cut_label": "10 de octubre de 2026, 10:00 h (integración de pendientes; actualización 11 oct)",
+  "updated_at": "2026-10-12T10:00:00-06:00",
+  "cut_label": "12 de octubre de 2026, 10:00 h",
   "records": [
     {
       "date": "2026-10-07",
@@ -184,6 +184,30 @@
       "channel": "Tradicional",
       "extract": "Forma parte del grupo de ocho entidades que, en conjunto, reúnen 55.6 por ciento del hato bovino nacional, junto con Veracruz, Jalisco, Durango, Chiapas, Chihuahua, Michoacán y Tabasco.",
       "url": "https://www.nvinoticias.com/oaxaca/general/agave-cafe-y-ganado-oaxaca-destaca-entre-los-grandes-productores-de-mexico/194392"
+    },
+    {
+      "date": "2026-10-11",
+      "cut": "12 oct · 10:00",
+      "medium": "El Sol de Chiapas",
+      "platform": "Web",
+      "title": "CHIAPAS, entre los ocho estados con más ganado bovino del país",
+      "theme": "Ganadería bovina",
+      "region": "Nacional con referencia a Durango",
+      "scope": "Nacional",
+      "extract": "el 55.6 por ciento se concentra en Veracruz, Jalisco, Durango, Chihuahua, Michoacán, Oaxaca, Tabasco y Chiapas.",
+      "url": "https://elsoldechiapas.com/chiapas-entre-los-ocho-estados-con-mas-ganado-bovino-del-pais/"
+    },
+    {
+      "date": "2026-10-11",
+      "cut": "12 oct · 10:00",
+      "medium": "El Momento Chiapas",
+      "platform": "Web",
+      "title": "Chiapas, entre las potencias agropecuarias de México",
+      "theme": "Ganadería bovina",
+      "region": "Nacional con referencia a Durango",
+      "scope": "Nacional",
+      "extract": "el 55.6 por ciento del ganado bovino del país, al lado de Veracruz, Jalisco, Durango, Chihuahua, Michoacán, Oaxaca y Tabasco.",
+      "url": "https://elmomentochiapas.mx/estados/chiapas/2026/10/11/chiapas-entre-las-potencias-agropecuarias-de-mexico/"
     }
   ],
   "editorial_policy": "Extractos textuales breves, sin paráfrasis; solo Durango resaltado visualmente en HTML y Word."
