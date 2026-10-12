@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-10-07",
-      "cut": "08 oct · 10:00 (retrospectivo)",
+      "cut": "08 oct · 10:00",
       "medium": "Metapolítica",
       "platform": "Web",
       "title": "Destaca Michoacán entre los principales productores nacionales de granos y frutos, revela Encuesta Nacional Agropecuaria 2025",
@@ -40,11 +40,12 @@
       "extract": "junto a Veracruz, Jalisco, Durango, Chiapas, Chihuahua, Oaxaca y Tabasco) que concentran el 55.6 por ciento de las existencias de ganado bovino en México",
       "url": "https://metapolitica.news/2026/10/07/destaca-michoacan-entre-los-principales-productores-nacionales-de-granos-y-frutos-revela-encuesta-nacional-agropecuaria-2025/",
       "extract_status": "Fragmento textual cotejado con el artículo original",
-      "scope": "Nacional"
+      "scope": "Nacional",
+      "integration_note": "Integrada posteriormente; referencia anterior del corte: 08 oct · 10:00 (retrospectivo)."
     },
     {
       "date": "2026-10-07",
-      "cut": "08 oct · 10:00 (retrospectivo)",
+      "cut": "08 oct · 10:00",
       "medium": "Alerta Chiapas",
       "platform": "Web",
       "title": "Chiapas, segundo estado con más tierra de cultivo: 1.6 millones de ha",
@@ -53,11 +54,12 @@
       "extract": "Chiapas forma parte del grupo de ocho estados, junto con Veracruz, Jalisco, Durango, Chihuahua, Michoacán, Oaxaca y Tabasco, que reúne 55.6%",
       "url": "https://alertachiapas.com/2026/10/07/chiapas-segundo-lugar-superficie-agricola-ena-2025/",
       "extract_status": "Fragmento textual cotejado con el artículo original",
-      "scope": "Nacional"
+      "scope": "Nacional",
+      "integration_note": "Integrada posteriormente; referencia anterior del corte: 08 oct · 10:00 (retrospectivo)."
     },
     {
       "date": "2026-10-07",
-      "cut": "08 oct · 10:00 (retrospectivo)",
+      "cut": "08 oct · 10:00",
       "medium": "El Sol de Chiapas",
       "platform": "Web",
       "title": "CHIAPAS concentra 6.6% de la superficie agrícola nacional: INEGI",
@@ -66,7 +68,8 @@
       "extract": "",
       "url": "https://elsoldechiapas.com/chiapas-concentra-6-6-de-la-superficie-agricola-nacional-inegi/",
       "extract_status": "Pendiente de cotejo: no se pudo verificar literalmente el texto de la fuente",
-      "scope": "Nacional"
+      "scope": "Nacional",
+      "integration_note": "Integrada posteriormente; referencia anterior del corte: 08 oct · 10:00 (retrospectivo)."
     },
     {
       "date": "2026-10-08",
@@ -148,7 +151,7 @@
     },
     {
       "date": "2026-10-08",
-      "cut": "09 oct · 16:00 (retrospectivo)",
+      "cut": "09 oct · 16:00",
       "medium": "El Economista",
       "platform": "Web",
       "title": "Sonora, Jalisco y BCS lideran en mano de obra remunerada del campo",
@@ -157,11 +160,12 @@
       "scope": "Nacional",
       "extract": "En el grupo de 20 a 35% estuvieron Aguascalientes, Morelos, Chihuahua, Michoacán, Nuevo León, Sinaloa y Durango.",
       "extract_status": "Cita textual cotejada; publicado 8 oct 22:32",
-      "url": "https://www.eleconomista.com.mx/estados/sonora-jalisco-bcs-lideran-mano-obra-remunerada-campo-20261008-837729.html"
+      "url": "https://www.eleconomista.com.mx/estados/sonora-jalisco-bcs-lideran-mano-obra-remunerada-campo-20261008-837729.html",
+      "integration_note": "Integrada posteriormente; referencia anterior del corte: 09 oct · 16:00 (retrospectivo)."
     },
     {
       "date": "2026-10-08",
-      "cut": "10 oct · 10:00 (integración retrospectiva)",
+      "cut": "10 oct · 10:00",
       "medium": "AVC Noticias",
       "platform": "Web",
       "title": "Familias del campo en México recortan gastos ante dificultades",
@@ -170,11 +174,12 @@
       "scope": "Nacional",
       "channel": "Tradicional",
       "extract": "El estado también formó parte de las ocho entidades que concentraron 55.6% del ganado bovino del país, junto con Jalisco, Durango, Chiapas, Chihuahua, Michoacán, Oaxaca y Tabasco.",
-      "url": "https://www.avcnoticias.com.mx/noticias-veracruz/general/383970/familias-del-campo-en-m-xico-recortan-gastos-ante-dificultades.html"
+      "url": "https://www.avcnoticias.com.mx/noticias-veracruz/general/383970/familias-del-campo-en-m-xico-recortan-gastos-ante-dificultades.html",
+      "integration_note": "Integrada posteriormente; referencia anterior del corte: 10 oct · 10:00 (integración retrospectiva)."
     },
     {
       "date": "2026-10-08",
-      "cut": "10 oct · 10:00 (integración retrospectiva)",
+      "cut": "10 oct · 10:00",
       "medium": "NVI Noticias",
       "platform": "Web",
       "title": "Agave, café y ganado: Oaxaca destaca entre los grandes productores de México",
@@ -183,7 +188,8 @@
       "scope": "Nacional",
       "channel": "Tradicional",
       "extract": "Forma parte del grupo de ocho entidades que, en conjunto, reúnen 55.6 por ciento del hato bovino nacional, junto con Veracruz, Jalisco, Durango, Chiapas, Chihuahua, Michoacán y Tabasco.",
-      "url": "https://www.nvinoticias.com/oaxaca/general/agave-cafe-y-ganado-oaxaca-destaca-entre-los-grandes-productores-de-mexico/194392"
+      "url": "https://www.nvinoticias.com/oaxaca/general/agave-cafe-y-ganado-oaxaca-destaca-entre-los-grandes-productores-de-mexico/194392",
+      "integration_note": "Integrada posteriormente; referencia anterior del corte: 10 oct · 10:00 (integración retrospectiva)."
     },
     {
       "date": "2026-10-11",
@@ -210,7 +216,7 @@
       "url": "https://elmomentochiapas.mx/estados/chiapas/2026/10/11/chiapas-entre-las-potencias-agropecuarias-de-mexico/"
     }
   ],
-  "editorial_policy": "Extractos textuales breves, sin paráfrasis; solo Durango resaltado visualmente en HTML y Word.",
+  "editorial_policy": "Extractos textuales breves, sin paráfrasis; solo Durango resaltado visualmente en HTML y Word.\nLas notas integradas retrospectivamente conservan fecha de publicación, corte normalizado y referencia histórica en integration_note; no se duplican cortes por calificativos.",
   "cuts": [
     {
       "date": "2026-10-10",
