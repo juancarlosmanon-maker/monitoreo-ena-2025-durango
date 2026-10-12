@@ -210,5 +210,31 @@
       "url": "https://elmomentochiapas.mx/estados/chiapas/2026/10/11/chiapas-entre-las-potencias-agropecuarias-de-mexico/"
     }
   ],
-  "editorial_policy": "Extractos textuales breves, sin paráfrasis; solo Durango resaltado visualmente en HTML y Word."
+  "editorial_policy": "Extractos textuales breves, sin paráfrasis; solo Durango resaltado visualmente en HTML y Word.",
+  "cuts": [
+    {
+      "date": "2026-10-10",
+      "time": "10:00",
+      "label": "10 oct · 10:00",
+      "new_records": 0,
+      "notes": "Sin publicaciones nuevas confirmadas; se integraron retrospectivamente dos notas del 8 de octubre (AVC Noticias y NVI Noticias).",
+      "status": "realizado"
+    },
+    {
+      "date": "2026-10-11",
+      "time": "10:00",
+      "label": "11 oct · 10:00",
+      "new_records": 0,
+      "notes": "Sin publicaciones nuevas confirmadas. Acumulado histórico: 14.",
+      "status": "realizado"
+    },
+    {
+      "date": "2026-10-12",
+      "time": "10:00",
+      "label": "12 oct · 10:00",
+      "new_records": 2,
+      "notes": "Dos publicaciones nacionales/regionales con referencia sustantiva a Durango. Acumulado: 16.",
+      "status": "realizado"
+    }
+  ]
 }
