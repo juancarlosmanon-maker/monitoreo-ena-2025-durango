@@ -219,6 +219,14 @@
   "editorial_policy": "Extractos textuales breves, sin paráfrasis; solo Durango resaltado visualmente en HTML y Word.\nLas notas integradas retrospectivamente conservan fecha de publicación, corte normalizado y referencia histórica en integration_note; no se duplican cortes por calificativos.",
   "cuts": [
     {
+      "date": "2026-10-09",
+      "time": "10:00",
+      "label": "09 oct · 10:00",
+      "new_records": null,
+      "notes": "Corte previsto en el calendario de seguimiento; resultado pendiente de documentar o verificar.",
+      "status": "pendiente_de_verificacion"
+    },
+    {
       "date": "2026-10-10",
       "time": "10:00",
       "label": "10 oct · 10:00",
@@ -227,12 +235,28 @@
       "status": "realizado"
     },
     {
+      "date": "2026-10-10",
+      "time": "16:00",
+      "label": "10 oct · 16:00",
+      "new_records": null,
+      "notes": "Corte previsto en el calendario de seguimiento; resultado pendiente de documentar o verificar.",
+      "status": "pendiente_de_verificacion"
+    },
+    {
       "date": "2026-10-11",
       "time": "10:00",
       "label": "11 oct · 10:00",
       "new_records": 0,
       "notes": "Sin publicaciones nuevas confirmadas. Acumulado histórico: 14.",
       "status": "realizado"
+    },
+    {
+      "date": "2026-10-11",
+      "time": "16:00",
+      "label": "11 oct · 16:00",
+      "new_records": null,
+      "notes": "Corte previsto en el calendario de seguimiento; resultado pendiente de documentar o verificar.",
+      "status": "pendiente_de_verificacion"
     },
     {
       "date": "2026-10-12",
